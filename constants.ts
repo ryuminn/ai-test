@@ -46,15 +46,16 @@ export const SHORTS: VideoItem[] = [
     title: '골골송 라이브',
     description: '파이의 기분 좋은 진동음을 들어보세요.',
     thumbnail: 'https://picsum.photos/600/800?random=10',
-    // Using a sample MP4 URL. In a real app, this would be a local asset or cloud storage URL.
-    videoUrl: 'https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4' 
+    // Updated to raw GitHub URL for direct playback
+    videoUrl: 'https://github.com/ryuminn/ai-test/raw/cc8a14f86d3ecc58472a11adb1b0f8ba8280cd8e/Generated%20File%20February%2003%2C%202026%20-%203_44PM.mp4' 
   },
   {
     id: 'video2',
     title: '꾹꾹이 타임',
     description: '담요 위에서 정성스럽게 반죽을 만드는 파이.',
     thumbnail: 'https://picsum.photos/600/800?random=11',
-    videoUrl: 'https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4'
+    // Updated to raw GitHub URL for direct playback
+    videoUrl: 'https://github.com/ryuminn/ai-test/raw/cc8a14f86d3ecc58472a11adb1b0f8ba8280cd8e/Generated%20video%201.mov'
   },
 ];
 
